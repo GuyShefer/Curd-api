@@ -1,0 +1,12 @@
+
+.avatars-container {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 10px;
+}
+
+.avatar-card {
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+}
